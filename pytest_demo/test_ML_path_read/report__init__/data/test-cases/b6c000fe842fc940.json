@@ -1,0 +1,93 @@
+{
+  "uid" : "b6c000fe842fc940",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1-.mp3-True]",
+  "fullName" : "test_ML_path_read.test.Test_ML_path_read#test_constructor",
+  "historyId" : "38c2e387f877ded273559d80957633a8",
+  "time" : {
+    "start" : 1663292494341,
+    "stop" : 1663292494341,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_ML_path_read",
+    "time" : {
+      "start" : 1663292494196,
+      "stop" : 1663292494308,
+      "duration" : 112
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_ML_path_read::0",
+    "time" : {
+      "start" : 1663292494397,
+      "stop" : 1663292494423,
+      "duration" : 26
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_ML_path_read"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_ML_path_read"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OHVQB08"
+  }, {
+    "name" : "thread",
+    "value" : "1556-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_ML_path_read.test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "flag",
+    "value" : "True"
+  }, {
+    "name" : "input_dir",
+    "value" : "'C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1'"
+  }, {
+    "name" : "specified_type",
+    "value" : "'.mp3'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6c000fe842fc940.json",
+  "parameterValues" : [ "True", "'C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1'", "'.mp3'" ]
+}

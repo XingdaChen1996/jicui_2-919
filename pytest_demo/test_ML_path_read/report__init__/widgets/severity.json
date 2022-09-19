@@ -1,0 +1,281 @@
+[ {
+  "uid" : "cbb01a9242e89257",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1-.wav-False]",
+  "time" : {
+    "start" : 1663292526846,
+    "stop" : 1663292526846,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58875fe64ccfd827",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set3-.mp3-True]",
+  "time" : {
+    "start" : 1663292526878,
+    "stop" : 1663292526879,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73510799f3d3310b",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set5-.wav-False]",
+  "time" : {
+    "start" : 1663292526893,
+    "stop" : 1663292526893,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7962db9b56abe3b6",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set3-.wav-True]",
+  "time" : {
+    "start" : 1663292526872,
+    "stop" : 1663292526873,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77b61b93ed6fcf53",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\qqqqqqq-.mp3-False]",
+  "time" : {
+    "start" : 1663292526829,
+    "stop" : 1663292526829,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2de5e1d70b65a30b",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\qqqqqqq-.wav-True]",
+  "time" : {
+    "start" : 1663292526826,
+    "stop" : 1663292526826,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a117beb6e5d43acd",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set2-.mp3-True]",
+  "time" : {
+    "start" : 1663292526866,
+    "stop" : 1663292526866,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "588ff6a6acc033f4",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set2-.mp3-False]",
+  "time" : {
+    "start" : 1663292526863,
+    "stop" : 1663292526863,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "913310dbe3711752",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set4-.wav-False]",
+  "time" : {
+    "start" : 1663292526881,
+    "stop" : 1663292526882,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d656160118a7a2e7",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set4-.mp3-True]",
+  "time" : {
+    "start" : 1663292526890,
+    "stop" : 1663292526890,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c91eb5b9818ebd75",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set5-.mp3-False]",
+  "time" : {
+    "start" : 1663292526899,
+    "stop" : 1663292526899,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdc4fc3a639aabdb",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set2-.wav-False]",
+  "time" : {
+    "start" : 1663292526857,
+    "stop" : 1663292526857,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b85be69123ec9191",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1-.mp3-True]",
+  "time" : {
+    "start" : 1663292526854,
+    "stop" : 1663292526855,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5801699fa1ee6b43",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1-.wav-True]",
+  "time" : {
+    "start" : 1663292526849,
+    "stop" : 1663292526849,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87d202a45cb62c65",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\qqqqqqq-.wav-False]",
+  "time" : {
+    "start" : 1663292526823,
+    "stop" : 1663292526824,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76ca95d8d10166cd",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set3-.mp3-False]",
+  "time" : {
+    "start" : 1663292526875,
+    "stop" : 1663292526875,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a5de58976f180c",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py-.mp3-True]",
+  "time" : {
+    "start" : 1663292526843,
+    "stop" : 1663292526843,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "405530f5e35612dc",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set4-.wav-True]",
+  "time" : {
+    "start" : 1663292526884,
+    "stop" : 1663292526884,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4555b7bedea5d215",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set2-.wav-True]",
+  "time" : {
+    "start" : 1663292526860,
+    "stop" : 1663292526860,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e31f4cd1864741",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set3-.wav-False]",
+  "time" : {
+    "start" : 1663292526869,
+    "stop" : 1663292526869,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "336b4ce1f1dcaf43",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py-.mp3-False]",
+  "time" : {
+    "start" : 1663292526840,
+    "stop" : 1663292526840,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad36dad77e2d5cae",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py-.wav-True]",
+  "time" : {
+    "start" : 1663292526837,
+    "stop" : 1663292526837,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c8b9bce58aa16fc",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py-.wav-False]",
+  "time" : {
+    "start" : 1663292526835,
+    "stop" : 1663292526835,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8838c078f85e5029",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\qqqqqqq-.mp3-True]",
+  "time" : {
+    "start" : 1663292526832,
+    "stop" : 1663292526832,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2620ebc4b6c63bd3",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set1-.mp3-False]",
+  "time" : {
+    "start" : 1663292526851,
+    "stop" : 1663292526852,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b226978c457421ef",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set5-.mp3-True]",
+  "time" : {
+    "start" : 1663292526902,
+    "stop" : 1663292526902,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a342ec43e84e5b95",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set5-.wav-True]",
+  "time" : {
+    "start" : 1663292526896,
+    "stop" : 1663292526896,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11c3a16029d13906",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test_data__init__\\data_set4-.mp3-False]",
+  "time" : {
+    "start" : 1663292526887,
+    "stop" : 1663292526887,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

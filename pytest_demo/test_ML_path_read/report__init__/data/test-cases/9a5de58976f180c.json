@@ -1,0 +1,103 @@
+{
+  "uid" : "9a5de58976f180c",
+  "name" : "test_constructor[C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py-.mp3-True]",
+  "fullName" : "test_ML_path_read.test.Test_ML_path_read#test_constructor",
+  "historyId" : "8cf9b0b6fbe707e97e61b44fe48d32ff",
+  "time" : {
+    "start" : 1663292526843,
+    "stop" : 1663292526843,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_ML_path_read",
+    "time" : {
+      "start" : 1663292526715,
+      "stop" : 1663292526823,
+      "duration" : 108
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_ML_path_read::0",
+    "time" : {
+      "start" : 1663292526904,
+      "stop" : 1663292526928,
+      "duration" : 24
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_ML_path_read"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_ML_path_read"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OHVQB08"
+  }, {
+    "name" : "thread",
+    "value" : "10176-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_ML_path_read.test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "flag",
+    "value" : "True"
+  }, {
+    "name" : "input_dir",
+    "value" : "'C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py'"
+  }, {
+    "name" : "specified_type",
+    "value" : "'.mp3'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "403c2013db926b41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663292494329,
+        "stop" : 1663292494329,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a5de58976f180c.json",
+  "parameterValues" : [ "True", "'C:\\Users\\25760\\Desktop\\JiCui_demo\\jicui_demo\\pytest_demo\\test_ML_path_read\\test.py'", "'.mp3'" ]
+}

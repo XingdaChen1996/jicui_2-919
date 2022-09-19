@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "d815aed211803eed311e1cbbc7b45baf",
+    "name" : "test_ML_path_read",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 28,
+      "unknown" : 0,
+      "total" : 28
+    }
+  } ]
+}
